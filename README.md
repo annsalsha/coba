@@ -1,4 +1,4 @@
-<p align="center"><b>📘 Analisis Putusan Pengadilan – Dataset dan Ringkasan 📘</b></p>
+<h2 align="center">📘 <b>Analisis Putusan Pengadilan – Dataset dan Ringkasan</b> 📘</h2>
 
 Repositori ini berisi dataset dan ringkasan putusan pengadilan yang digunakan untuk keperluan penelitian atau pengembangan sistem berbasis analisis teks hukum, seperti Case-Based Reasoning (CBR), Text Classification, atau Information Retrieval.
 
@@ -66,9 +66,5 @@ Contoh isi **ringkasan_putusan.csv**:
 ---
 
 **👩‍💻 Kontributor**
-- Yunita Sangadji
-
-Mahasiswa Teknik Informatika – Universitas Muhammadiyah Malang
-- Annisaa Salsabila
-
-Mahasiswa Teknik Informatika – Universitas Muhammadiyah Malang
+- Yunita Sangadji - Mahasiswa Teknik Informatika – Universitas Muhammadiyah Malang
+- Annisaa Salsabila - Mahasiswa Teknik Informatika – Universitas Muhammadiyah Malang
