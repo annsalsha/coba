@@ -1,4 +1,4 @@
-<p align="center">**📘 Analisis Putusan Pengadilan – Dataset dan Ringkasan**</p>
+<p align="center bold">📘 Analisis Putusan Pengadilan – Dataset dan Ringkasan 📘</p>
 
 Repositori ini berisi dataset dan ringkasan putusan pengadilan yang digunakan untuk keperluan penelitian atau pengembangan sistem berbasis analisis teks hukum, seperti Case-Based Reasoning (CBR), Text Classification, atau Information Retrieval.
 
@@ -14,6 +14,7 @@ Repositori ini berisi dataset dan ringkasan putusan pengadilan yang digunakan un
     └── ringkasan_putusan.csv
 ```
 **🧾 Penjelasan:**
+
 - dataset/
 Folder ini berisi file **dataset.zip** yang memuat data putusan pengadilan dalam bentuk teks lengkap atau format terstruktur lainnya.
 Dataset ini dapat digunakan untuk pemrosesan lanjutan seperti ekstraksi fitur, text embedding, atau analisis isi.
@@ -21,6 +22,7 @@ Dataset ini dapat digunakan untuk pemrosesan lanjutan seperti ekstraksi fitur, t
 - overview/
 Folder ini berisi file **ringkasan_putusan.csv** yang merupakan hasil ringkasan dari dataset utama.
 File ini berisi beberapa kolom penting:
+
 | Kolom           | Deskripsi |
 |-----------------|------------|
 | **nomor_putusan** | Nomor unik setiap putusan pengadilan |
@@ -31,6 +33,7 @@ File ini berisi beberapa kolom penting:
 ---
 
 **🧠 Tujuan**
+
 Repositori ini dibuat untuk mendukung penelitian dalam bidang:
 - Analisis teks hukum berbasis NLP (Natural Language Processing)
 - Sistem rekomendasi kasus hukum (Case-Based Reasoning)
@@ -39,6 +42,7 @@ Repositori ini dibuat untuk mendukung penelitian dalam bidang:
 ---
 
 **⚙️ Cara Menggunakan**
+
 1. Clone repositori ini:
 ```bash
 git clone https://github.com/username/nama-repo.git
@@ -50,9 +54,10 @@ unzip dataset.zip
 ```
 3. Gunakan file **ringkasan_putusan.csv** sebagai data ringkasan untuk eksplorasi awal atau pelatihan model.
 
----
+--- 
 
 **📊 Format Data**
+
 Contoh isi **ringkasan_putusan.csv**:
 | Nomor Putusan | Lembaga Pengadilan | Barang Bukti | Amar Putusan |
 |:--------------|:------------------:|--------------:|---------------|
